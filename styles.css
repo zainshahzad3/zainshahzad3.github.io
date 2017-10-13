@@ -1,0 +1,22 @@
+body {font-family: 'Ubuntu', sans-serif;background-color: #ffa700;
+color: white;
+}
+h1{
+  color:#007bff;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {color:#007bff;
+font-size: 30px;
+font-weight: normal;
+text-align: center;}
+.header{
+  color:#007bff;
+}
+img {width: 1300px;}
+
+h5 {color:#007bff;
+font-size: 40px;
+font-weight: bold;
+text-align: center;}
